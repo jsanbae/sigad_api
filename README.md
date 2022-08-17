@@ -6,7 +6,7 @@ Esto es una API intermedia para integrar el webservice de Sigad Editrade en tus 
 
 ## Instalación
 
-```composer install jsanbae/sigad_api```
+```composer require jsanbae/sigad_api```
 
 ## Configuración
 
